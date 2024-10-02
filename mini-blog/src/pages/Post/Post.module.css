@@ -1,0 +1,18 @@
+.post_container {
+    text-align: center;
+}
+
+.post_container img {
+    max-width: 600px;
+    max-height: 750px;
+}
+
+.post_container h3{
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+}
+
+.post_container h3 p {
+    margin: 7px;
+}
